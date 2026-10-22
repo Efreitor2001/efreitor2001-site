@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://efreitor2001.ru/sitemap.xml
+
